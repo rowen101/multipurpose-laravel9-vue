@@ -51,7 +51,7 @@ Here is the YouTube playlist link: https://www.youtube.com/watch?v=IoPOi-Xp_Ng&l
 
 ## Authors
 
-- [@clovon](https://www.github.com/clovon)
+- [@clovon](https://www.github.com/rowen101)
 
 
 ## Feedback
